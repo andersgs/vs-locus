@@ -1,0 +1,3 @@
+[console_scripts]
+vs_locus = vs_locus.vs_locus:vs_locus
+

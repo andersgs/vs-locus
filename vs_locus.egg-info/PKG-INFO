@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: vs-locus
+Version: 0.0.1
+Summary: Mine vsearch clustering data for haplotypes
+Home-page: https://github.com/andersgs/vs-locus
+Author: Anders Goncalves da Silva
+Author-email: andersgs@gmail.com
+License: GPLv3
+Description: # vs_locus: a tool to mine vsearch clustering results for haplotypes
+        
+Keywords: population genomics RAD vsearch
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: GPLv3
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Classifier: Intended Audience :: Science/Research
