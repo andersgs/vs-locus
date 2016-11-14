@@ -14,4 +14,6 @@ def vs_locus(input):
     msg.info("Welcome to vs_locus!")
     cluster_summary = ClusterSummary()
     cluster_summary.load_table(input)
+    cluster_summary.add_centroids()
+    cluster_summary.add_hits()
     pass
